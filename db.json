@@ -1,0 +1,39 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is feedback item 1 coming from the backend"
+    },
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "This is feedback item 2 coming from the backend"
+    },
+    {
+      "text": "Kingsley you are there",
+      "rating": 7,
+      "id": 4
+    },
+    {
+      "text": "I am loving this thoug",
+      "rating": 8,
+      "id": 5
+    },
+    {
+      "text": "you will like to know what is happending right",
+      "rating": 8,
+      "id": 6
+    },
+    {
+      "text": "Jesus WILL MISS YOU",
+      "rating": 9,
+      "id": 7
+    },
+    {
+      "text": "i need you to say yes to me",
+      "rating": 3,
+      "id": 8
+    }
+  ]
+}
