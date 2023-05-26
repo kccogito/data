@@ -1,39 +1,30 @@
 {
   "feedback": [
     {
-      "id": 1,
+      "id": 9,
       "rating": 10,
-      "text": "This is feedback item 1 coming from the backend"
+      "text": "Your work the past few months has been amazing! You really care about your work and you seem to really take the time to do it the best you can"
     },
     {
       "id": 2,
       "rating": 8,
-      "text": "This is feedback item 2 coming from the backend"
+      "text": "I just wanted to highlight the hard work you've put into my project"
     },
     {
-      "text": "Kingsley you are there",
+      "text": "I wanted to congratulate you on your determination to finish this project.",
       "rating": 7,
-      "id": 4
-    },
-    {
-      "text": "I am loving this thoug",
-      "rating": 8,
-      "id": 5
-    },
-    {
-      "text": "you will like to know what is happending right",
-      "rating": 8,
-      "id": 6
-    },
-    {
-      "text": "Jesus WILL MISS YOU",
-      "rating": 9,
       "id": 7
     },
     {
-      "text": "i need you to say yes to me",
-      "rating": 3,
+      "text": "You always work so passionately to make sure our customers get the best experience and insight and they really are reaping the rewards from your efforts! I love working collaboratively with you",
+      "rating": 8,
       "id": 8
-    }
+    },
+    {
+      "text": "You're always so authentic and enthusiastic. So glad you've had some great feedback from customers too as it's so deserved",
+      "rating": 8,
+      "id": 6
+    },
+    
   ]
 }
