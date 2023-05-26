@@ -8,7 +8,7 @@
     {
       "id": 2,
       "rating": 8,
-      "text": "I just wanted to highlight the hard work you've put into my project"
+      "text": "I just wanted to highlight the hard work you have put into my project"
     },
     {
       "text": "I wanted to congratulate you on your determination to finish this project.",
@@ -21,10 +21,10 @@
       "id": 8
     },
     {
-      "text": "You're always so authentic and enthusiastic. So glad you've had some great feedback from customers too as it's so deserved",
+      "text": "You are always so authentic and enthusiastic. So glad you've had some great feedback from customers too as it's so deserved",
       "rating": 8,
       "id": 6
-    },
+    }
     
   ]
 }
